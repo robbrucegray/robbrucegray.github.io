@@ -1,6 +1,7 @@
 ---
 layout: home
 title: "Rob Gray"
+permalink: /
 subtitle: "Senior Technical Writer | Cloud & AI Documentation"
 ---
 

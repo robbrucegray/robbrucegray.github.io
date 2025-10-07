@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-
+remote_theme: alshedivat/al-folio
 title: GRAYMATTER
 first_name: Rob
 last_name: Gray
